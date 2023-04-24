@@ -1,6 +1,4 @@
-# Hi there👋. Nice to meet you.
-
-**MERCY ADE-IGE**  
+# Hi there👋. Nice to meet you. I'm **MERCY ADE-IGE**  
 
 An aspiring **software engineer**, proficient in **python, html, css and javascript**. I am a go getter with a growth mindset, willing to take up new challenges and see them through to the end.  
 
@@ -14,16 +12,17 @@ An aspiring **software engineer**, proficient in **python, html, css and javascr
 - Developed a recipe web application with flask.  
 - Developed a movie gallery with html, css, and javascript.  
 
-### **👩‍🔬Languages and Framework** 
+### **👩‍🔬Languages and Framework**  
 - Python | HTML/CSS | Javascript | Django | Flask | Bootstrap  
 
 ### **⚡Fun fact:**  
 - I love sports and i dance all the time even though i dont know how.  
-  
+
 ### **📫How to reach me:**  
-[Github](https://github.com/mersaii)  
-[LinkedIn](https://www.linkedin.com/in/mercy-ade-ige/)  
-[Twitter](https://twitter.com/__Starlightt_)  
+- [Github](https://github.com/mersaii)  
+- [LinkedIn](https://www.linkedin.com/in/mercy-ade-ige/)  
+- [Twitter](https://twitter.com/__Starlightt_)  
+- ✉️ You can drop me an email at mercyadeige@gmail.com with subject "GitHub: ..."!.  
 
 💬 I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 

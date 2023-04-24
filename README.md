@@ -1,5 +1,5 @@
 # HI THERE👋 NICE TO MEET YOU.  
-# I'M MERCY ADE-IGE.  
+<h1>I'M MERCY ADE-IGE.<h1>
 An aspiring **software engineer**, proficient in **python, html, css and javascript**. I am a go getter with a growth mindset, willing to take up new challenges and see them through to the end.  
 
 😄 Pronouns: She/Her  

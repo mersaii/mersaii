@@ -7,6 +7,7 @@ An aspiring **software engineer**, proficient in **Python**, **HTML**, **CSS** a
 👯 I’m looking to collaborate on open source projects.  
 
 ### **🌱What have I done so far?**  
+- Developed a farming website that helps connect farmers and consumers with html, css, and javascript
 - Developed a quiz app with flask.  
 - Worked with a team that developed a website with WIX called FEM-ERGY that was 1 of the 7 winners of a Major League Hackathon.  
 - Developed a recipe web application with flask.  

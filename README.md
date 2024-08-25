@@ -1,6 +1,6 @@
 Hi there👋  
 # I'M MERCY ADE-IGE  
-An aspiring **software engineer**, proficient in **Python**, **HTML**, **CSS** and **JavaScript**. I am a go getter with a growth mindset, willing to take up new challenges and see them through to the end.  
+A **software developer**, proficient in **Python**, **HTML**, **CSS** and **JavaScript**. As a dedicated medical laboratory scientist, I aspire to create solutions that bridge the gap between medicine and technology, with the goal of enhancing health care delivery and improving lives.
 
 😄 Pronouns: She/Her  
 🔭 I’m currently working on completing my computer science degree @ [Kibo School](https://kibo.school/).  
@@ -14,7 +14,7 @@ An aspiring **software engineer**, proficient in **Python**, **HTML**, **CSS** a
 - Developed a movie gallery with html, css, and javascript.  
 
 ### **👩‍🔬Languages and Framework**  
-- Python | HTML/CSS | Javascript | Django | Flask | Bootstrap  
+- Python | HTML/CSS | Javascript | Django | Flask | Bootstrap | C 
 
 ### **⚡Fun fact:**  
 - I love sports and i dance all the time even though i dont know how.  

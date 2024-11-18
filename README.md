@@ -3,7 +3,7 @@ Hi there👋
 A **software developer**, proficient in **Python**, **HTML**, **CSS** and **JavaScript**. As a dedicated medical laboratory scientist, I aspire to create solutions that bridge the gap between medicine and technology, with the goal of enhancing health care delivery and improving lives.
 
 😄 Pronouns: She/Her  
-🔭 I’m currently working on completing my computer science degree @ [Kibo School](https://kibo.school/).  
+🔭 Computer science degree @ [Kibo School](https://kibo.school/).  
 👯 I’m looking to collaborate on open source projects.  
 
 ### **🌱What have I done so far?**  
